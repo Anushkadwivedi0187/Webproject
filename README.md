@@ -1,18 +1,22 @@
-# Webproject
-Shooping Website
-#Amazon Clone
-This is a fully responsive e-commerce website inspired by Amazon, built using HTML, CSS, and JavaScript. It includes features like a homepage, product listings, shopping cart, and user-friendly interface.
+# Amazon Clone 🛒
 
-## Features
+This is a fully responsive *Amazon Clone* created using HTML and CSS. It simulates the homepage of the Amazon India website with key UI components.
 
-- Homepage with featured items and banners  
-- Product listing page  
-- Shopping cart functionality  
-- Responsive design  
-- Attractive UI using HTML/CSS
+## 🚀 Features
+- Navigation bar with Amazon logo, search box, cart icon
+- Fully designed product cards
+- Hero section with promotional banners
+- Footer with multiple columns
+- Responsive design
+- 
+## 💻 Tech Stack
+- HTML
+- CSS
+## 🎯 Purpose
+This project was built to practice front-end development and recreate a popular e-commerce homepage using only HTML and CSS.
 
-## Tech Stack
+## 🙋‍♀️ Author
+- GitHub: [@Anushkadwivedi0187](https://github.com/Anushkadwivedi0187)
 
-- HTML  
-- CSS  
-- JavaScript
+## 📁 Project Structure
+
